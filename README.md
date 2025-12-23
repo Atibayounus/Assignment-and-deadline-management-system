@@ -33,8 +33,8 @@ Assignment_ID | Subject | Assignment_Title | Deadline | Status
 4. Follow the menu options displayed  
 
 ## Group Members
-- Member 1: Atiba 
-- Member 2: Rabia
+- Member 1: Atiba Younas
+- Member 2: Rabia Aman
 
 
 ## Conclusion
