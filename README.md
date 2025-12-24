@@ -17,7 +17,7 @@ This project is a console-based Assignment and Deadline Management System design
 - Store data using text files  
 
 ## Technologies Used
-- Programming Language: C / C++  
+- Programming Language:  C++  
 - File Handling: Text files  
 - Interface: Console-based  
 
