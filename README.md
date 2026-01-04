@@ -17,7 +17,7 @@
 This is a **console-based C++ application** for managing assignments and deadlines.  
 The program allows users to:
 
-- Add assignments with a title and deadline  
+- Adding assignments with a title and deadline  
 - View all assignments with their status (Pending/Completed)  
 - Mark assignments as completed  
 - Save and load assignment data from a file (`assignments.txt`)  
