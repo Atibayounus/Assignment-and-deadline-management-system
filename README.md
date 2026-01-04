@@ -1,11 +1,11 @@
-# 📝 Assignment & Deadline Management System
+#  Assignment & Deadline Management System
 
 ## Project Title
 **Assignment & Deadline Management System**
 
 ---
 
-## 👥 Group Members
+##  Group Members
 | Name | Roll No |
 |------|---------|
 | Atiba Younus | 25021519-095 |
@@ -13,7 +13,7 @@
 
 ---
 
-## 📖 Project Description
+##  Project Description
 This is a **console-based C++ application** for managing assignments and deadlines.  
 The program allows users to:
 
@@ -26,7 +26,7 @@ It provides a **simple menu-driven interface** suitable for students.
 
 ---
 
-## ✨ Features
+##  Features
 - Add new assignments  
 - View assignment list with deadlines and status  
 - Mark assignments as completed  
@@ -35,7 +35,7 @@ It provides a **simple menu-driven interface** suitable for students.
 
 ---
 
-## 🏃 How to Run the Program
+##  How to Run the Program
 1. Make sure the following files are in the same folder:  
    - `main.cpp`  
    - `assignment.cpp`  
