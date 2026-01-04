@@ -1,4 +1,4 @@
-#  Assignment & Deadline Management System
+#  Assignment & Deadline Management System 
 
 ## Project Title
 **Assignment & Deadline Management System**
@@ -14,7 +14,7 @@
 ---
 
 ##  Project Description
-This is a **console-based C++ application** for managing assignments and deadlines.  
+This is a **console-based C++ application** a mini project for managing assignments and deadlines.  
 The program allows users to:
 
 - Adding assignments with a title and deadline  
