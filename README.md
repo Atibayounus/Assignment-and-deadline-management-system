@@ -45,6 +45,8 @@ It provides a **simple menu-driven interface** suitable for students.
 ```bash
 g++ main.cpp assignment.cpp -o assignment_manager
 
+## contribution summary
+
 
 
 | Member       | Contribution                                                                                           |
